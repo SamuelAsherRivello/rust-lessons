@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "Lessons/Lesson_01_HelloWorld",
+    "Lessons/Lesson_02_PrimitiveTypes",
+    "Lessons/Lesson_03_CustomTypes",
+    "Lessons/Lesson_04_Syntax",
+    "Lessons/Lesson_05_UnitTests",
+    "Lessons/Lesson_06_Scoping",
+    "Lessons/Lesson_07_Generics",
+    "Lessons/Lesson_08_Traits",
+    "Lessons/Lesson_09_AttributesAndMacros",
+    "Lessons/Lesson_10_Patterns",
+]
+resolver = "3"
